@@ -1,0 +1,36 @@
+{
+  "mediaItems": [
+    {
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishDate": "1925-04-10",
+      "type": "book",
+      "theme": "American Dream",
+      "description": "A story of decadence and excess, following mysterious millionaire Jay Gatsby"
+    },
+    {
+      "name": "Abbey Road",
+      "author": "The Beatles",
+      "publishDate": "1969-09-26",
+      "type": "CD",
+      "theme": "Rock",
+      "description": "The Beatles' last recorded album featuring iconic songs like 'Come Together'"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "author": "Frank Darabont",
+      "publishDate": "1994-09-23",
+      "type": "DVD",
+      "theme": "Drama",
+      "description": "A tale of hope and friendship in Shawshank State Penitentiary"
+    },
+    {
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "publishDate": "2021-01-15",
+      "type": "Audiobook",
+      "theme": "Science Fiction",
+      "description": "Epic science fiction novel about politics, religion, and power on a desert planet"
+    }
+  ]
+}
